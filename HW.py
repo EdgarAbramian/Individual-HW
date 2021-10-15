@@ -105,7 +105,7 @@ int main()
                 cin.ignore(numeric_limits<streamsize>::max(), '\n');
                 cout << "Try again =>  ";
                 cout << "Ans = "; cin >> ans;
-            cin >> ans;count<<"Would you like to try again(Print Y or y if you want )"
+            cin >> ans;count<<"Would you like to try again(Print Y or y if you want )";
             }
         }
 
