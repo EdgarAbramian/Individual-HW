@@ -1,0 +1,138 @@
+{
+"utag_data":{
+      "forceSSL": true,
+      "hit_source": "tealium",
+      "_cprod": [],
+      "brand": "ASICS",
+      "site_environment": "prod",
+      "region": "AEG",
+      "country": "GB",
+      "sitename": "ASICS:AEG:GB",
+      "currency": "GBP",
+      "is_ecommerce": "yes",
+      "platform": "SFCC",
+      "platform_version": "v4.25.0-us-2023-03-08_07:08:40",
+      "language": "en-gb",
+      "user_ip_address": "34.125.248.186",
+      "user_logged_in": "false",
+      "page_type": "Product Details Page Template",
+      "page_category": "",
+      "page_name": "GEL-NIMBUS 25",
+      "ecc_action": "detail",
+      "product_id": [
+        "0020042649.400"
+      ],
+      "product_name": [
+        "GEL-NIMBUS 25"
+      ],
+      "product_brand": [
+        "ASICS"
+      ],
+      "product_division": [
+        "Shoes"
+      ],
+      "product_type": [
+        "PERFORMANCE RUNNING"
+      ],
+      "product_variant": [
+        "Island Blue/Sun Peach"
+      ],
+      "product_color": [
+        "400"
+      ],
+      "product_category": [
+        "men/shoes/running/run further"
+      ],
+      "product_category_id": [
+        "AS10201040"
+      ],
+      "product_stock": [
+        "yes"
+      ],
+      "product_unit_price": [
+        "175.00"
+      ],
+      "product_unit_original_price": [
+        "175.00"
+      ],
+      "product_marked_down": [
+        "no"
+      ],
+      "product_marked_down_price": [
+        "0.00"
+      ],
+      "product_marked_down_total": [
+        "0"
+      ],
+      "product_sizes": [
+        "6",
+        "6.5",
+        "7",
+        "7.5",
+        "8",
+        "8.5",
+        "9",
+        "9.5",
+        "10",
+        "10.5",
+        "11",
+        "11.5",
+        "12",
+        "12.5",
+        "13",
+        "13.5",
+        "14",
+        "15",
+        "16"
+      ],
+      "product_sizes_stock": [
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "no",
+        "yes",
+        "yes",
+        "yes"
+      ],
+      "product_no_stock_sizes": "13.5",
+      "product_style": [
+        "1011B547"
+      ],
+      "product_width": [
+        "Standard"
+      ],
+      "product_gender": [
+        "MEN"
+      ],
+      "product_customer": [
+        "no"
+      ],
+      "product_lottery": [
+        "no"
+      ],
+      "product_set": [
+        "no"
+      ],
+      "product_is_active": [
+        "yes"
+      ],
+      "product_pronation": [
+        ""
+      ],
+      "product_is_roadtested": [
+        "no"
+      ]
+    }
+}
