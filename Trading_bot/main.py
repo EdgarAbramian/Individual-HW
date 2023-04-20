@@ -151,7 +151,7 @@ def rec_to_SELL(frame,INITIAL):
     else:
         return 0
 
-
+print(top_coin())
 rec_to_BUY(df)
 # BUY_INIT: 28001.26
 # print(float(str(BUY_PRICE(ASSET))))
