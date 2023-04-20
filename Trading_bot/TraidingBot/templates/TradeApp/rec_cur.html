@@ -1,0 +1,17 @@
+{% extends "index.html" %}
+
+{% load static %}
+{%block content%}
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="{% static 'style_rec_cur.css' %}" type="text/css">
+  </head>
+  <ul>
+      <h1>{{top_coin}}</h1>
+      <a href="{%url 'get_cur'%}">
+        <button  class="btn-rec-cur" >Recommend currency</button>
+      </a>
+  </ul>
+{%endblock %}
